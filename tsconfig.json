@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",          // Handles modern ESM logic correctly
+    "moduleResolution": "NodeNext",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "sourceMap": false,
+    "esModuleInterop": true,       // Ensures compatibility with CommonJS packages
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]          // Compile everything in src
+}

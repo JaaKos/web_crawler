@@ -1,0 +1,1 @@
+For browser extensions, create an "extensions" directory under this profile directory. In the created directory, extensions should each be in their own subdirectory with the manifest.json file at the top level.

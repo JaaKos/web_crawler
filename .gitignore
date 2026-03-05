@@ -1,6 +1,6 @@
 /profile/browser_profile/
 /profile/extensions/
-/out/
+/out/out.txt
 /dist/
 
 # Playwright
